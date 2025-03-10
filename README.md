@@ -2,3 +2,4 @@
 - [ ] Today in class, we turned off the Packages, Deployments, and Releases - I wish you were paying attention to those directions.
 - [ ] Create a README file.
 - [ ] 1, 3, & 4 are text files not python files - fix this.
+- [ ] Exercism -- please fix repo spelling
